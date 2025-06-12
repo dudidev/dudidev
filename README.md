@@ -10,7 +10,7 @@
   <a href="www.linkedin.com/in/duvier-diego-david" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="28" alt="linkedin logo"  />
   </a>
-  <a href="dddavid____" target="_blank">
+  <a href="[dddavid____](https://www.instagram.com/dddavid____/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="28" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="28" alt="gmail logo"  />
