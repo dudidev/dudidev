@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">I'm a apassionate full-stack developer<br><br>- 📚 I'm currently learning Java, Angular and Typescript<br>- ⚡ In my free time I play videogames and watch series</h3>
+<h3 align="left">I'm a apassionate full-stack developer<br><br>- 📚 I'm currently learning Kotlin, Android Studio and Azure <br>- ⚡ In my free time I play videogames and watch series</h3>
 
 ###
 
