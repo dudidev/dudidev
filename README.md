@@ -1,19 +1,7 @@
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=74&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 ###
-
-<br clear="both">
-
 <h1 align="left">👋 Hey, soy Duvier</h1>
 
 ###
-
-<br clear="both">
-
 <p align="left">💻 Desarrollador Full Stack <br>🚀 Construyendo soluciones digitales reales con enfoque en escalabilidad</p>
 
 ###
@@ -46,6 +34,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">🧩 En qué me enfoco</h2>
 
 ###
@@ -53,6 +43,8 @@
 <p align="left">- Desarrollo Full Stack (Frontend + Backend)  <br>- Arquitectura óptima para el modelo de negocio <br>- Construcción de productos digitales reales  <br>- Soluciones enfocadas en negocio, no solo código</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -122,6 +114,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">📊 Stats</h2>
 
 ###
@@ -132,12 +126,11 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">📫 Contacto</h2>
 
 ###
-
-<br clear="both">
-
 <div align="center">
   <a href="www.linkedin.com/in/duvier-diego-david" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -151,6 +144,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h4 align="center">Construyendo soluciones digitales que conectan tecnología con necesidades reales.</h4>
 
